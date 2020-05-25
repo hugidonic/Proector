@@ -1,2 +1,4 @@
 # Proector
-Proector - приложение на React &amp; Redux &amp; Firebase. Приложение создано на основе курса по redux практике, но с несколькими Дополнениями
+Proector - приложение на React &amp; Redux &amp; Firebase. Создано на основе курса по react-redux.
+
+Ссылка на готовый билд на хостинге: https://proecter-43dd7.firebaseapp.com
